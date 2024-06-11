@@ -1,10 +1,5 @@
 # PCB Workshop Report
-                                                   
-
-                  Summer Internship
-
-                  PCB Workshop
-
+                                         
 Contents:
 1.	Team Members
 2.	Introduction to PCB
