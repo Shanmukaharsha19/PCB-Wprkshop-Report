@@ -15,7 +15,7 @@
 7. Conclusion
 
 **Team Members:**
-3. N. Shanmuka Harshavardhan - BU21EECE0100186
+ N. Shanmuka Harshavardhan - BU21EECE0100186
 
 
 **Introduction:**
